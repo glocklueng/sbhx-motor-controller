@@ -146,12 +146,31 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
+[Document9]
+DocumentPath=..\..\..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Examples\Scripts\Delphiscript Scripts\Pcb\PCB Logo Creator\PCBLogoCreator.PRJSCR
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
 [ProjectVariant1]
 Description=Test Varrian
 ParameterCount=0
 VariationCount=1
 Variation1=Designator=P3|UniqueId=\MQESMYFG|Kind=1|AlternatePart= 
 ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Rev1\Design Rule Check - Rev5.html
+DItemRevisionGUID=
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -183,6 +202,9 @@ SCH_ExpandSheetNumber=0
 SCH_ExpandDocumentNumber=0
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
+
+[Generic_ScriptingSystem]
+StartProcName=..\..\..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Examples\Scripts\Delphiscript Scripts\Pcb\PCB Logo Creator\Converter.PAS>RunConverterScript
 
 [OutputGroup1]
 Name=Netlist Outputs
